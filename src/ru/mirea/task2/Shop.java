@@ -42,7 +42,6 @@ public class Shop {
         String p2 = scan.nextLine();
         shop.removeComputer(shop.findComputer(p2));
 
-
     }
 
 }
